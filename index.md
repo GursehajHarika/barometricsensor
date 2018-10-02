@@ -1,4 +1,4 @@
-Raspberry Pi 3  - $141.47 [Image of Raspberry Pi recept] (barometricsensor/Project receipts/Adapter.png)
+Raspberry Pi 3  - $141.47 [Image of Raspberry Pi recept] (https://github.com/GursehajHarika/barometricsensor/blob/master/Project%20receipts/reciept%20sensor.png)
        
 
 Ethernet to USB adapte- $31.53 [Image of the receipt](http://GursehajHarika.github.com/barometricsensor/Project receipts/Adapter.png)   
