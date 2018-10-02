@@ -1,7 +1,7 @@
-Raspberry Pi 3  - $141.47 [Image of Raspberry Pi recept](https://raw.githubusercontent.com/GursehajHarika/barometricsensor/master/Project%20receipts/raspberry.png.jpg)
+Raspberry Pi 3  - $141.47 [Image1 ](https://raw.githubusercontent.com/GursehajHarika/barometricsensor/master/Project%20receipts/raspberry.png.jpg)
        
 
-Ethernet to USB adapte- $31.53 [Image of the receipt](https://raw.githubusercontent.com/GursehajHarika/barometricsensor/master/Project%20receipts/Adapter.png)   
+Ethernet to USB adapter- $31.53 [Image of the receipt](https://raw.githubusercontent.com/GursehajHarika/barometricsensor/master/Project%20receipts/Adapter.png)   
 
 Barometric Pressure Sensor - $11.99 [Image of sensor ](https://raw.githubusercontent.com/GursehajHarika/barometricsensor/master/Project%20receipts/reciept%20sensor.png)   
 
