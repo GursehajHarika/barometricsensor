@@ -7,3 +7,4 @@ Barometric Pressure Sensor - $11.99 [Image of sensor ](https://raw.githubusercon
 
 Parkts kit - $120.00 
 [image](https://raw.githubusercontent.com/GursehajHarika/barometricsensor/master/Project%20receipts/20181002_175841.jpg)
+# Week 1
