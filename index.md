@@ -3,7 +3,7 @@
 
 # week 6
 
-      [Umlargo.pdf](https://github.com/GursehajHarika/barometricsensor/files/2550718/Umlargo.pdf)
+     ![umlimage](https://user-images.githubusercontent.com/43185907/48031330-cdef9100-e121-11e8-9fc3-03276bc2c449.PNG)
 
       
 
