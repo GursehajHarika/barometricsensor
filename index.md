@@ -1,5 +1,29 @@
 # Week 7 
+![pcbbarometricsensor_pcb](https://user-images.githubusercontent.com/43185907/47801872-74dcc300-dd05-11e8-998a-f4af0fb8d176.png)
 
+# week 6
+
+      [Umlargo.pdf](https://github.com/GursehajHarika/barometricsensor/files/2550718/Umlargo.pdf)
+
+      
+
+# Week 5
+
+
+# Week 4
+
+
+
+
+# Week 3
+
+
+
+# Week 2
+
+
+
+# Week 1
 
 Raspberry Pi 3  - $141.47 [Image1 ](https://raw.githubusercontent.com/GursehajHarika/barometricsensor/master/Project%20receipts/raspberry.png.jpg)
        
@@ -10,7 +34,7 @@ Barometric Pressure Sensor - $11.99 [Image of sensor ](https://raw.githubusercon
 
 Parkts kit - $120.00 
 [image](https://raw.githubusercontent.com/GursehajHarika/barometricsensor/master/Project%20receipts/20181002_175841.jpg)
-# Week 1
 
-![pcbbarometricsensor_pcb](https://user-images.githubusercontent.com/43185907/47801872-74dcc300-dd05-11e8-998a-f4af0fb8d176.png)
+
+
 
