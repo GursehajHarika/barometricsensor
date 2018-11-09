@@ -1,5 +1,8 @@
 # Week 8
 
+![pcb image2](https://user-images.githubusercontent.com/43185907/48246905-38712d00-e3bf-11e8-98a0-75910e5473ac.JPG)
+
+
 
 ![pcb image1](https://user-images.githubusercontent.com/43185907/48246872-137cba00-e3bf-11e8-981f-cf2f63ff3447.JPG)
 
