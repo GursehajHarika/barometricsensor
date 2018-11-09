@@ -1,3 +1,8 @@
+# Week 8
+
+
+![pcb image1](https://user-images.githubusercontent.com/43185907/48246872-137cba00-e3bf-11e8-981f-cf2f63ff3447.JPG)
+
 # Week 7 
 ![pcbbarometricsensor_pcb](https://user-images.githubusercontent.com/43185907/47801872-74dcc300-dd05-11e8-998a-f4af0fb8d176.png)
 
