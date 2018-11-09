@@ -13,25 +13,9 @@
 
  ![umlimage](https://user-images.githubusercontent.com/43185907/48031330-cdef9100-e121-11e8-9fc3-03276bc2c449.PNG)
 
-      
+
 
 # Week 5
-
-
-# Week 4
-
-
-
-
-# Week 3
-
-
-
-# Week 2
-
-
-
-# Week 1
 
 Raspberry Pi 3  - $141.47 [Image1 ](https://raw.githubusercontent.com/GursehajHarika/barometricsensor/master/Project%20receipts/raspberry.png.jpg)
        
@@ -43,6 +27,13 @@ Barometric Pressure Sensor - $11.99 [Image of sensor ](https://raw.githubusercon
 Parkts kit - $120.00 
 [image](https://raw.githubusercontent.com/GursehajHarika/barometricsensor/master/Project%20receipts/20181002_175841.jpg)
 
+
+
+# Week 1
+
+Choose Sensor for my hardware project 
+
+MS5611 Barometric Pressure (0x76)
 
 
 
