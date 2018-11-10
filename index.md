@@ -1,4 +1,9 @@
-# Week 8
+# Week 9
+
+
+PCB Soldering 
+
+This week, the PCB i designed was made.this is the first time i created my own PCB. I soldered a 12 header pin on the PCB which was then used to attached my sensor to the PCB which could later be used to connect to the raspberry pi.
 
 ![pcb image2](https://user-images.githubusercontent.com/43185907/48246905-38712d00-e3bf-11e8-98a0-75910e5473ac.JPG)
 
@@ -6,10 +11,15 @@
 
 ![pcb image1](https://user-images.githubusercontent.com/43185907/48246872-137cba00-e3bf-11e8-981f-cf2f63ff3447.JPG)
 
-# Week 7 
+# Week 8 
+
+This week, the PCB was design was completed and sen it to the Prototype lab of Humber college, below is the schmetic of the PCB which shows the connection between the 12 header pin and the raspberry pi GPIO pins.
+
 ![pcbbarometricsensor_pcb](https://user-images.githubusercontent.com/43185907/47801872-74dcc300-dd05-11e8-998a-f4af0fb8d176.png)
 
 # week 6
+
+BreadBoarding 
 
  ![umlimage](https://user-images.githubusercontent.com/43185907/48031330-cdef9100-e121-11e8-9fc3-03276bc2c449.PNG)
 
