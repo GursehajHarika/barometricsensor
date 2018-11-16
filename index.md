@@ -5,7 +5,7 @@ The Sensor was plugged into the Raspberry Pi 3's GPIO and was stacked with [Arma
 ![barometricpressureand3axissensorstacked](https://user-images.githubusercontent.com/43185907/48626118-07749780-e97f-11e8-9f47-7c04b9b4464c.jpeg)
 
 
-And this  is how My sensor readings look like.
+And this  is how My sensor readings look like and the python code that i [used] (https://github.com/GursehajHarika/barometricsensor/blob/master/ms5611.py) which i found [on](http://www.pibits.net/code/raspberry-pi-and-ms5611-barometric-pressure-sensor-example.php)
 
 ![sensorreadings](https://user-images.githubusercontent.com/43185907/48626353-a5686200-e97f-11e8-95df-3de6a83a0182.jpeg)
 
