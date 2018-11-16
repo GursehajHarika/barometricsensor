@@ -1,6 +1,6 @@
 # Week 11
 
-The Sensor was plugged into the Raspberry Pi 3's GPIO and was stacked with [Arman Velani](https://github.com/ArmanVelani/3-AxisAccelerometer)  's 3-Axis Accelerometer. i can happily say both sensors worked like a charm. My sensor "Sensor' Link ". we Ran  into some weierd problem while running the python code that would read data from the sensor and display it on the screen. You can read more about it [here](https://github.com/ArmanVelani/3-AxisAccelerometer/blob/master/index.md)
+The Sensor was plugged into the Raspberry Pi 3's GPIO and was stacked with [Arman Velani](https://github.com/ArmanVelani/3-AxisAccelerometer)  's 3-Axis Accelerometer. i can happily say both sensors worked like a charm. We Ran into some weird problem while running the python code that would read data from the sensor and display it on the screen for the 3axis- accelerometer. You can read more about it [here](https://github.com/ArmanVelani/3-AxisAccelerometer/blob/master/index.md)
 
 ![barometricpressureand3axissensorstacked](https://user-images.githubusercontent.com/43185907/48626118-07749780-e97f-11e8-9f47-7c04b9b4464c.jpeg)
 
