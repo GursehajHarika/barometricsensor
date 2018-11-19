@@ -27,7 +27,8 @@ This week, the PCB i designed was made.this is the first time i created my own P
 
 This week, the PCB was design was completed and sen it to the Prototype lab of Humber college, below is the schmetic of the PCB which shows the connection between the 12 header pin and the raspberry pi GPIO pins.
 
-![pcbbarometricsensor_pcb](https://user-images.githubusercontent.com/43185907/47801872-74dcc300-dd05-11e8-998a-f4af0fb8d176.png)
+![pcbbarometricsensor_pcbnew](https://user-images.githubusercontent.com/43185907/48722214-7e18cb80-ebf1-11e8-8b25-dfd06f559e3d.png)
+
 
 # week 7
 
