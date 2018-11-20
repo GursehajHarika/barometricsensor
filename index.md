@@ -1,5 +1,8 @@
 # Week 12
 
+
+Here is my Raspberry Pi's case design that is going to be made and will be updated
+
 ![design](https://user-images.githubusercontent.com/43185907/48804390-79801000-ece2-11e8-9a68-08e2eff1f0b7.png)
 
 
