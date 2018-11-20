@@ -1,3 +1,11 @@
+# Week 12
+
+![design](https://user-images.githubusercontent.com/43185907/48804390-79801000-ece2-11e8-9a68-08e2eff1f0b7.png)
+
+
+
+
+
 # Week 11
 
 The Sensor was plugged into the Raspberry Pi 3's GPIO and was stacked with [Arman Velani](https://github.com/ArmanVelani/3-AxisAccelerometer)  's 3-Axis Accelerometer. i can happily say both sensors worked like a charm. We Ran into some weird problem while running the python code that would read data from the sensor and display it on the screen for the 3axis- accelerometer. You can read more about it [here](https://github.com/ArmanVelani/3-AxisAccelerometer/blob/master/index.md)
