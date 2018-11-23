@@ -7,7 +7,7 @@ Here is my Raspberry Pi's case design that is going to be made and will be updat
 
 This is the final Product, the reason its so tall is that it can hold multiple sensors as our project includes more than one sensor, this case was designed in house to incroperate [Arman Velani](https://github.com/ArmanVelani/3-AxisAccelerometer)  's 3-Axis Accelerometer.
 
-
+![sensorcase2](https://user-images.githubusercontent.com/43185907/48949692-e116a500-ef06-11e8-8675-9b4f8dc0291f.jpeg)
 
 ![sensorcase](https://user-images.githubusercontent.com/43185907/48949567-60f03f80-ef06-11e8-90fd-74825a6f81f5.jpeg)
 
