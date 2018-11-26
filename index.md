@@ -46,6 +46,18 @@ This week, the PCB was design was completed and sen it to the Prototype lab of H
 ![pcbbarometricsensor_pcbnew](https://user-images.githubusercontent.com/43185907/48722214-7e18cb80-ebf1-11e8-8b25-dfd06f559e3d.png)
 
 
+# Week 8
+
+BreadBoarding
+
+
+Making a breadboard was easy, once  the sensor's documentation was well written and helped me alot in making the connections. 
+
+![pcbbarometricsensor_bb](https://user-images.githubusercontent.com/43185907/49048095-89e32f80-f1a7-11e8-8fa2-22bcb1d66fbc.png)
+
+
+
+
 # week 7
 
 BreadBoarding 
