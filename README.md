@@ -47,4 +47,4 @@ Once you have all the parts ready to use, this is how you should
 
 And When you design your PCB, Please Make sure that the Grey Part(Actual PCB) has all the wiring inside it.
 
-![pcbbarometricsensor_pcbnew](https://user-images.githubusercontent.com/43185907/48722214-7e18cb80-ebf1-11e8-8b25-dfd06f559e3d.png)]((https://user-images.githubusercontent.com/43185907/48722214-7e18cb80-ebf1-11e8-8b25-dfd06f559e3d.png
+![pcbbarometricsensor_pcbnew](https://user-images.githubusercontent.com/43185907/48722214-7e18cb80-ebf1-11e8-8b25-dfd06f559e3d.png)]
