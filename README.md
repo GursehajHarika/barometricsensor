@@ -91,11 +91,18 @@ Now Create a [Python Code](https://github.com/GursehajHarika/barometricsensor/bl
 
 and in order to run it,
 
-type in " sudo python ms5611.py "
+type in " sudo python YOUR_FILE_NAME.py "
 
 and you should be good to go.
+
+### Bonus
+
+if you wish to add another sensor, i would recommend looking at [Arman Velani's 3-axis accelormeter](https://github.com/ArmanVelani/3-AxisAccelerometer) and go through his read me and if you are able to make his sensor too and try to put it on your sensor, it will look somthing like this.
+
+![barometricpressureand3axissensorstacked](https://user-images.githubusercontent.com/43185907/48626118-07749780-e97f-11e8-9f47-7c04b9b4464c.jpeg)
+
 
 # Unit and Production Testing
 
 If i were to make a 1000 or 10,000 of these sensors and have more than one 
-iwould try to fit both 
+i would try to fit both 
