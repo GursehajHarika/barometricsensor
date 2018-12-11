@@ -68,15 +68,34 @@ You'll need a [12 Pin Header](https://canada.newark.com/adafruit/2223/40-pin-pi-
 
 Once THE PCB is Designed,lets try [Creating the Case](https://github.com/GursehajHarika/barometricsensor/blob/master/PiGursehajHarika.cdr) for it 
 
-which would Look somtihng like this.
+Once the case is completed.
+bring your [PCB], Sensor and [Raspberry Pi] fitted inside the case.
+and this is how youre final sensor complete with your case and PCB should look like.
 ![sensorcase2](https://user-images.githubusercontent.com/43185907/48949692-e116a500-ef06-11e8-8675-9b4f8dc0291f.jpeg)
 
 ![sensorcase](https://user-images.githubusercontent.com/43185907/48949567-60f03f80-ef06-11e8-90fd-74825a6f81f5.jpeg)
 
 which should be edited on Corel draw as the file that i have was made on Corel Draw.
 
+Once youre case is complete and raspberry pi is connecting to a display we have to work on making the Raspberry Pi Remotly acessable,
+Go to youtube and follow this [tutorial](https://www.youtube.com/watch?v=WAFaw2Mbnko)
+after you're done with the tutorial your Raspberry Pi should work with remote desktop and now you don't need a keyboard and a mouse or even a monitor just to run your Raspberry Pi.
+
+Now open Terminal and Type in 
+i2c detect -y 1 and you shuould see 0x76.
+if not please look at your PCB.
+ 
+Now Create a [Python Code](https://github.com/GursehajHarika/barometricsensor/blob/master/ms5611.py) and that code will run and you'll be able to get some readings from it which should look somtihng like this.
+
+![sensorreadings](https://user-images.githubusercontent.com/43185907/48626353-a5686200-e97f-11e8-95df-3de6a83a0182.jpeg)
+
+and in order to run it,
+
+type in " sudo python ms5611.py "
+
+and you should be good to go.
+
 # Unit and Production Testing
 
-Once the case is completed.
-bring your PCB, Sensor and [Raspberry Pi] fitted inside the case.
-and this is how youre final sensor complete with your case and PCB shuold look like.
+If i were to make a 1000 or 10,000 of these sensors and have more than one 
+iwould try to fit both 
