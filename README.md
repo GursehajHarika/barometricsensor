@@ -44,3 +44,7 @@ And a Parts Kit that i bought from humber but you can get ir from where ever you
 Once you have all the parts ready to use, this is how you should 
 
 ![pcbbarometricsensor_bb](https://user-images.githubusercontent.com/43185907/49048095-89e32f80-f1a7-11e8-8fa2-22bcb1d66fbc.png)
+
+And When you design your PCB, Please Make sure that the Grey Part(Actual PCB) has all the wiring inside it.
+
+![pcbbarometricsensor_pcbnew](https://user-images.githubusercontent.com/43185907/48722214-7e18cb80-ebf1-11e8-8b25-dfd06f559e3d.png)]((https://user-images.githubusercontent.com/43185907/48722214-7e18cb80-ebf1-11e8-8b25-dfd06f559e3d.png
