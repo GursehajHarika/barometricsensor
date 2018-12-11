@@ -10,7 +10,7 @@ Have you ever wanted to know what was your height or how high somtihng goes with
 This Sensor Is able to read the height of the object or the temperature around it.
 here's how this sensor works with a android application. If you wish to work on the appication as well. i would highly recommend you clicking on [this](https://github.com/GursehajHarika/SAG-Droning). 
 here's the System diagram on how it will work,
-[Umlargo.pdf](https://github.com/GursehajHarika/barometricsensor/files/2669476/Umlargo.pdf)
+![umlimage](https://user-images.githubusercontent.com/43185907/48031330-cdef9100-e121-11e8-9fc3-03276bc2c449.PNG)
 
 
 # Parts and Tools 
@@ -19,7 +19,7 @@ These are the parts and Tools required to make,
 
 a soldering tool,
 ![image](https://user-images.githubusercontent.com/43185907/49832105-bda38500-fd63-11e8-91b4-6f54d5e169e2.jpeg)
-![umlimage](https://user-images.githubusercontent.com/43185907/48031330-cdef9100-e121-11e8-9fc3-03276bc2c449.PNG)
+
 
 
 lead free soldering wire(Recommended) or a soldering wire.
