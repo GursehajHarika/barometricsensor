@@ -1,7 +1,7 @@
 # barometricsensor
 
 
-[MS5611 Barometric Pressure (0x76)](![barometric pressure senor](https://user-images.githubusercontent.com/43185907/49833042-5935f500-fd66-11e8-84f8-3ecc64b90181.jpg))
+MS5611 Barometric Pressure (0x76)![barometric pressure senor](https://user-images.githubusercontent.com/43185907/49833042-5935f500-fd66-11e8-84f8-3ecc64b90181.jpg)
 
 picture from [this](https://www.ebay.ca/i/192749049300?chn=ps&dispItem=1) Webpage.
 
