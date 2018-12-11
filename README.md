@@ -45,7 +45,11 @@ Once you get your [Raspberry Pi 3.](https://www.canakit.com/raspberry-pi-3-model
 Go to Raspberry Pi 's Website and download [Raspbian full desktop verison](https://www.raspberrypi.org/downloads/) and get a [software to format the SD card to NFTS format.](https://www.sdcard.org/downloads/formatter_4/)
 Flash your Raspbian OS to your SD Card.
 Connect your Raspberry Pi to a Monitor. Grab a Keyboard,a mouse and a HTMI or VGA(Depending on what type of monitor you have.
-wait for the [RASPBIAN OS](https://www.raspberrypi.org/downloads/raspbian/) to boot up.
+### Please Note :- Do not Power On your raspberry Pi before you have plugged in all your I/O Devices.
+wait for the [RASPBIAN OS](https://www.raspberrypi.org/downloads/raspbian/) to boot up and initallize itself and you'll be greated with a home Screen that looks like this.
+![rpi-home-screen](https://user-images.githubusercontent.com/43185907/49835201-753c9500-fd6c-11e8-8d28-7d7a5e1cb914.png)
+Which i got from this [website](http://albumplays.com/raspberry-pi/assisted-installation-raspberry-pi/rpi-home-screen/)
+
 
 
 
