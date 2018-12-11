@@ -48,6 +48,7 @@ Connect your Raspberry Pi to a Monitor. Grab a Keyboard,a mouse and a HTMI or VG
 ### Please Note :- Do not Power On your raspberry Pi before you have plugged in all your I/O Devices.
 wait for the [RASPBIAN OS](https://www.raspberrypi.org/downloads/raspbian/) to boot up and initallize itself and you'll be greated with a home Screen that looks like this.
 ![rpi-home-screen](https://user-images.githubusercontent.com/43185907/49835201-753c9500-fd6c-11e8-8d28-7d7a5e1cb914.png)
+
 Which i got from this [website](http://albumplays.com/raspberry-pi/assisted-installation-raspberry-pi/rpi-home-screen/)
 
 
@@ -65,3 +66,17 @@ And When you design your PCB, Please Make sure that the Grey Part(Actual PCB) ha
 
 You'll need a [12 Pin Header](https://canada.newark.com/adafruit/2223/40-pin-pi-gpio-stacking-header/dp/31AC4582?gclid=Cj0KCQiA3b3gBRDAARIsAL6D-N9cOFlmcrDGau38Dyun99IYzh_ug67qgDeVlbwTAWUUSCZh_Ob89TsaAukoEALw_wcB&CAGPSPN=pla&CAWELAID=120185770002227709&CAAGID=23354969332&CMP=KNC-GCA-GEN-SHOPPING&CATCI=pla-294680686006) to connect your Sensor to your Raspberry Pi.
 
+Once THE PCB is Designed,lets try [Creating the Case](https://github.com/GursehajHarika/barometricsensor/blob/master/PiGursehajHarika.cdr) for it 
+
+which would Look somtihng like this.
+![sensorcase2](https://user-images.githubusercontent.com/43185907/48949692-e116a500-ef06-11e8-8675-9b4f8dc0291f.jpeg)
+
+![sensorcase](https://user-images.githubusercontent.com/43185907/48949567-60f03f80-ef06-11e8-90fd-74825a6f81f5.jpeg)
+
+which should be edited on Corel draw as the file that i have was made on Corel Draw.
+
+# Unit and Production Testing
+
+Once the Case is completed.
+bring your PCB, SENSor and raspberry PI Fitted inside the case.
+and this is how you're final sensor complete with your case and PCB shuold look like.
