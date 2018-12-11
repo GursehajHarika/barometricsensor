@@ -77,6 +77,6 @@ which should be edited on Corel draw as the file that i have was made on Corel D
 
 # Unit and Production Testing
 
-Once the Case is completed.
-bring your PCB, SENSor and raspberry PI Fitted inside the case.
-and this is how you're final sensor complete with your case and PCB shuold look like.
+Once the case is completed.
+bring your PCB, Sensor and [Raspberry Pi] fitted inside the case.
+and this is how youre final sensor complete with your case and PCB shuold look like.
