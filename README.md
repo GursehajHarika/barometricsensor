@@ -39,7 +39,13 @@ Barometric Pressure Sensor - $11.99 [Image of sensor ](https://raw.githubusercon
 And a Parts Kit that i bought from humber but you can get ir from where ever you feel like, as long as it has the same tools.
 [image](https://raw.githubusercontent.com/GursehajHarika/barometricsensor/master/Project%20receipts/20181002_175841.jpg)
 
-# Mechanical Assembly 
+# Mechanical Assembly
+
+Once you get your [Raspberry Pi 3.](https://www.canakit.com/raspberry-pi-3-model-b-plus.html). 
+Go to Raspberry Pi 's Website and downalod [Raspbian.](https://www.raspberrypi.org/downloads/).
+
+
+# PCB and Soldering. 
 
 Once you have all the parts ready to use, this is how you should 
 
@@ -47,4 +53,6 @@ Once you have all the parts ready to use, this is how you should
 
 And When you design your PCB, Please Make sure that the Grey Part(Actual PCB) has all the wiring inside it.
 
-![pcbbarometricsensor_pcbnew](https://user-images.githubusercontent.com/43185907/48722214-7e18cb80-ebf1-11e8-8b25-dfd06f559e3d.png)]
+![pcbbarometricsensor_pcbnew](https://user-images.githubusercontent.com/43185907/48722214-7e18cb80-ebf1-11e8-8b25-dfd06f559e3d.png)
+
+
