@@ -41,8 +41,12 @@ And a Parts Kit that i bought from humber but you can get ir from where ever you
 
 # Mechanical Assembly
 
-Once you get your [Raspberry Pi 3.](https://www.canakit.com/raspberry-pi-3-model-b-plus.html). 
-Go to Raspberry Pi 's Website and downalod [Raspbian.](https://www.raspberrypi.org/downloads/).
+Once you get your [Raspberry Pi 3.](https://www.canakit.com/raspberry-pi-3-model-b-plus.html) and keep your micro-SD card handy, you'll be needing it soon.
+Go to Raspberry Pi 's Website and download [Raspbian full desktop verison](https://www.raspberrypi.org/downloads/) and get a [software to format the SD card to NFTS format.](https://www.sdcard.org/downloads/formatter_4/)
+Flash your Raspbian OS to your SD Card.
+Connect your Raspberry Pi to a Monitor. Grab a Keyboard,a mouse and a HTMI or VGA(Depending on what type of monitor you have.
+wait for the [RASPBIAN OS](https://www.raspberrypi.org/downloads/raspbian/) to boot up.
+
 
 
 # PCB and Soldering. 
@@ -55,4 +59,5 @@ And When you design your PCB, Please Make sure that the Grey Part(Actual PCB) ha
 
 ![pcbbarometricsensor_pcbnew](https://user-images.githubusercontent.com/43185907/48722214-7e18cb80-ebf1-11e8-8b25-dfd06f559e3d.png)
 
+You'll need a [12 Pin Header](https://canada.newark.com/adafruit/2223/40-pin-pi-gpio-stacking-header/dp/31AC4582?gclid=Cj0KCQiA3b3gBRDAARIsAL6D-N9cOFlmcrDGau38Dyun99IYzh_ug67qgDeVlbwTAWUUSCZh_Ob89TsaAukoEALw_wcB&CAGPSPN=pla&CAWELAID=120185770002227709&CAAGID=23354969332&CMP=KNC-GCA-GEN-SHOPPING&CATCI=pla-294680686006) to connect your Sensor to your Raspberry Pi.
 
