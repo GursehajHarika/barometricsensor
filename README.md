@@ -83,7 +83,7 @@ after you're done with the tutorial your Raspberry Pi should work with remote de
 
 Now open Terminal and Type in 
 i2c detect -y 1 and you shuould see 0x76.
-if not please look at your PCB.
+if not please look at your PCB Design and your circuit.
  
 Now Create a [Python Code](https://github.com/GursehajHarika/barometricsensor/blob/master/ms5611.py) and that code will run and you'll be able to get some readings from it which should look somtihng like this.
 
@@ -97,12 +97,11 @@ and you should be good to go.
 
 ### Bonus
 
-if you wish to add another sensor, i would recommend looking at [Arman Velani's 3-axis accelormeter](https://github.com/ArmanVelani/3-AxisAccelerometer) and go through his read me and if you are able to make his sensor too and try to put it on your sensor, it will look somthing like this.
+if you wish to add another sensor, i would recommend looking at [Arman Velani's 3-axis accelormeter](https://github.com/ArmanVelani/3-AxisAccelerometer) and go through his README.MD and if you are able to make his sensor too and try to put it on your PCB and it will look somthing like this.
 
 ![barometricpressureand3axissensorstacked](https://user-images.githubusercontent.com/43185907/48626118-07749780-e97f-11e8-9f47-7c04b9b4464c.jpeg)
 
 
 # Unit and Production Testing
 
-If i were to make a 1000 or 10,000 of these sensors and have more than one 
-i would try to fit both 
+If i were to make a 1000 or 10,000 of these sensors and have more than one,i would try to fit both the sensors on one PCB and create a smaller case to make it portable.
